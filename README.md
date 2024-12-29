@@ -7,6 +7,13 @@ This is a simple **Home Page** built using **HTML** and **CSS**. There is no Jav
 - Basic structure of a home page.
 - Simple and responsive design using only HTML and CSS.
 
+## Preview
+
+Here’s how the project looks:
+
+![Screenshot 1](screenshot/index.html.png)
+*Home page in desktop view.*
+
 ## Prerequisites
 
 You don't need any special tools or software to run this project. Just a web browser and a text editor of your choice.
