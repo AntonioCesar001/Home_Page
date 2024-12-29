@@ -224,18 +224,15 @@ span{
     }
 }
 
-@keyframes words{
-    0%, 25%{
-        content: "Engenheiro de Computação";
+@keyframes words {
+    0%, 33% {
+        content: "Computer Engineer";
     }
-    26%, 50%{
-        content: "Desenvolvedor Web";
+    34%, 66% {
+        content: "Web Developer";
     }
-    51%, 75%{
-        content: "Desenvolvedor Back-End";
-    }
-    76%, 100%{
-        content: "Desenvolvedor";
+    67%, 100% {
+        content: "Back-End Developer";
     }
 }
 
